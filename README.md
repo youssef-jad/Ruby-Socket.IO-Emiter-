@@ -1,1 +1,1 @@
-# Ruby-Socket.IO-Emiter-
+# Ruby Socket.IO Emiter
